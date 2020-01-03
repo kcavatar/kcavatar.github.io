@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## G R Krishna Chand Avatar
 
 You can use the [editor on GitHub](https://github.com/kcavatar/kcavatar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
