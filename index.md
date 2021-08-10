@@ -10,13 +10,14 @@ I am currently a Ph.D. student at the Indian Institute of Science, Bengaluru.
 
 - **Computational and Continuum Mechanics:** linear and non-linear elasticity
 - **Fluid-structure interactions** 
+- **Biomechanics**
 - **Parallel computing**
 - **Flow instabilities**
 
 ## Education
 
-- Master of Technology (*Aerospace Engineering*), **Indian Institute of Science**, Bengaluru
-- Bachelor of Engineering (*Aerospace Engineering*) **Punjab Engineering College**, Chandigarh
+- Master of Technology (Aerospace Engineering), **Indian Institute of Science**, Bengaluru
+- Bachelor of Engineering (Aerospace Engineering), **Punjab Engineering College**, Chandigarh
 
 ## Publications
 
@@ -36,4 +37,4 @@ I am currently a Ph.D. student at the Indian Institute of Science, Bengaluru.
 
 ## Other interests
 
-- I post things on my [WordPress](https://kcavatar.wordpress.com) blog which can be accessed [](./blogs.html). 
+- I post things on my [WordPress](https://kcavatar.wordpress.com) blog which can be accessed [here](./blogs.html). 
