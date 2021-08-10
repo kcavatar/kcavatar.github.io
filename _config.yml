@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: G R Krishna Chand 
-middle_name:
+# middle_name:
 last_name: Avatar
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -153,8 +153,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Avatar
+  first_name: [G R Krishna Chand, G. R. K. C.]
 
   style: apa
   locale: en
