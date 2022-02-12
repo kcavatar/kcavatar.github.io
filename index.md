@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Ph.D. student at the Department of Aerospace Engineering, Indian Institute of Science, Bengaluru. I am working under the supervision of [[Prof. Vivekanand Dabade](http://aero.iisc.ac.in/people/vivekanand-dabade/)]. We work on problems lying at the broad intersection of mechanics, mathematics and materials science. 
+I am currently a Ph.D. student at the Department of Aerospace Engineering, Indian Institute of Science, Bengaluru. I am working under the supervision of [Prof. Vivekanand Dabade](http://aero.iisc.ac.in/people/vivekanand-dabade/). We work on problems lying at the broad intersection of mechanics, mathematics and materials science. 
 
 ## Research Interests
 
