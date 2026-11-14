@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Multiple Hopf bifurcations and flow dynamics inside a 2D singular lid driven cavity"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-01-01-multiple-hopf-bifurcations
+excerpt: 'Lestandi, Bhaumik, Avatar, Azaiez, and Sengupta (2018), Computers & Fluids.'
+date: 2018-01-01
+venue: 'Computers & Fluids'
+paperurl: 'https://doi.org/10.1016/j.compfluid.2018.01.038'
+citation: 'Lestandi, L., S. Bhaumik, G. R. K. C. Avatar, M. Azaiez, and T. K. Sengupta. (2018). &quot;Multiple Hopf bifurcations and flow dynamics inside a 2D singular lid driven cavity.&quot; <i>Computers &amp; Fluids</i> 166: 86-103.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
