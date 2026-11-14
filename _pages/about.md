@@ -11,9 +11,7 @@ It's Krishna here!
 
 {% include base_path %}
 
-<figure class="site-figure hero-figure"><img src="{{ base_path }}/images/schematics/hero-waves.svg" alt="Animated illustration of a wave losing amplitude as it passes through a chain of masses with local resonators"><figcaption><a href="{{ base_path }}/concept-demonstrations/">Try the interactive version: choose a frequency and watch the chain respond.</a></figcaption></figure>
-
-<p class="lead">I study how elastic waves travel through engineered structures, and how to design metamaterials that stop unwanted vibration.</p>
+<!--- <p class="lead">I study how elastic waves travel through engineered structures, and how to design metamaterials that stop unwanted vibration.</p> --->
 
 I am a Research Engineer in Structural Mechanics & Dynamics at the Healthcare Technology and Innovation Center, GE HealthCare, Bengaluru, working across modalities such as ultrasound devices, CT system and MR machines.
 
