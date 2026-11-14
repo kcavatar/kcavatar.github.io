@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "POD Applied to Numerical Study of Unsteady Flow Inside Lid-driven Cavity"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2018-01-02-pod-applied-lid-driven-cavity
+excerpt: 'Lestandi, Bhaumik, Sengupta, Avatar, and Azaiez (2018), Journal of Mathematical Study.'
+date: 2018-01-02
+venue: 'Journal of Mathematical Study'
+paperurl: 'https://doi.org/10.4208/jms.v51n2.18.03'
+citation: 'Lestandi, L., S. Bhaumik, T. K. Sengupta, G. R. K. C. Avatar, and M. Azaiez. (2018). &quot;POD Applied to Numerical Study of Unsteady Flow Inside Lid-driven Cavity.&quot; <i>Journal of Mathematical Study</i> 51: 150-176.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
