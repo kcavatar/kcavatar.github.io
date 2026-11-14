@@ -27,8 +27,8 @@ author:
   name             : "G R Krishna Chand Avatar"
   pronouns         : # example: "she/her"  
   bio              : "Research engineer in solid mechanics at GE HealthCare. Research interests include solid mechanics, magnetism, and applied mathematics."
-  location         :
-  employer         : GE HealthCare [https://www.gehealthcare.com/en-us]
+  location         : JFWTC, Bengaluru, India
+  employer         : GE HealthCare
   uri              : https://www.gehealthcare.com/en-us # URL
   email            : 
 
@@ -230,9 +230,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
